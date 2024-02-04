@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9868"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T15:00:00",
+  "exception_type": "Unauthorized use",
+  "location": "Outside working hours",
+  "remedial_actions_taken": "Driver warned, additional training provided"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9869"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T18:30:00",
+  "exception_type": "Long unauthorized stop",
+  "location": "Geofence G002",
+  "remedial_actions_taken": "Driver counseling session, geofence adjusted"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11de"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T15:00:00",
+  "exception_type": "Unauthorized use",
+  "location": "Outside working hours",
+  "remedial_actions_taken": "Driver warned, additional training provided"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11df"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T18:30:00",
+  "exception_type": "Long unauthorized stop",
+  "location": "Geofence G002",
+  "remedial_actions_taken": "Driver counseling session, geofence adjusted"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24b1"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T15:00:00",
+  "exception_type": "Unauthorized use",
+  "location": "Outside working hours",
+  "remedial_actions_taken": "Driver warned, additional training provided"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24b2"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T18:30:00",
+  "exception_type": "Long unauthorized stop",
+  "location": "Geofence G002",
+  "remedial_actions_taken": "Driver counseling session, geofence adjusted"
+}]

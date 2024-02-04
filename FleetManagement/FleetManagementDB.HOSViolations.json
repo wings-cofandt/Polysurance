@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65bfbcc1496274043c1ba49d"
+  },
+  "driver_id": "D001",
+  "violation_type": "Exceeding daily driving hours",
+  "timestamp": "2024-02-04T18:30:00",
+  "severity": "Major",
+  "remedial_actions_taken": "Driver sent for mandatory rest"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc1496274043c1ba49e"
+  },
+  "driver_id": "D002",
+  "violation_type": "Incomplete rest break",
+  "timestamp": "2024-02-04T15:45:00",
+  "severity": "Minor",
+  "remedial_actions_taken": "Driver advised to take proper rest breaks"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a985a"
+  },
+  "driver_id": "D001",
+  "violation_type": "Exceeding daily driving hours",
+  "timestamp": "2024-02-04T18:30:00",
+  "severity": "Major",
+  "remedial_actions_taken": "Driver sent for mandatory rest"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a985b"
+  },
+  "driver_id": "D002",
+  "violation_type": "Incomplete rest break",
+  "timestamp": "2024-02-04T15:45:00",
+  "severity": "Minor",
+  "remedial_actions_taken": "Driver advised to take proper rest breaks"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11d0"
+  },
+  "driver_id": "D001",
+  "violation_type": "Exceeding daily driving hours",
+  "timestamp": "2024-02-04T18:30:00",
+  "severity": "Major",
+  "remedial_actions_taken": "Driver sent for mandatory rest"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11d1"
+  },
+  "driver_id": "D002",
+  "violation_type": "Incomplete rest break",
+  "timestamp": "2024-02-04T15:45:00",
+  "severity": "Minor",
+  "remedial_actions_taken": "Driver advised to take proper rest breaks"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24a3"
+  },
+  "driver_id": "D001",
+  "violation_type": "Exceeding daily driving hours",
+  "timestamp": "2024-02-04T18:30:00",
+  "severity": "Major",
+  "remedial_actions_taken": "Driver sent for mandatory rest"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24a4"
+  },
+  "driver_id": "D002",
+  "violation_type": "Incomplete rest break",
+  "timestamp": "2024-02-04T15:45:00",
+  "severity": "Minor",
+  "remedial_actions_taken": "Driver advised to take proper rest breaks"
+}]

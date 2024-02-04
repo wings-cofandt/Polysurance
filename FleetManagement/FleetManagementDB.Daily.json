@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9862"
+  },
+  "date": "2024-02-04",
+  "activities": {
+    "start_time": "08:00:00",
+    "end_time": "17:00:00",
+    "jobs_completed": 5,
+    "breaks_taken": 2,
+    "idle_time": 30
+  }
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9863"
+  },
+  "date": "2024-02-05",
+  "activities": {
+    "start_time": "09:00:00",
+    "end_time": "18:00:00",
+    "jobs_completed": 7,
+    "breaks_taken": 3,
+    "idle_time": 45
+  }
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11d8"
+  },
+  "date": "2024-02-04",
+  "activities": {
+    "start_time": "08:00:00",
+    "end_time": "17:00:00",
+    "jobs_completed": 5,
+    "breaks_taken": 2,
+    "idle_time": 30
+  }
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11d9"
+  },
+  "date": "2024-02-05",
+  "activities": {
+    "start_time": "09:00:00",
+    "end_time": "18:00:00",
+    "jobs_completed": 7,
+    "breaks_taken": 3,
+    "idle_time": 45
+  }
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24ab"
+  },
+  "date": "2024-02-04",
+  "activities": {
+    "start_time": "08:00:00",
+    "end_time": "17:00:00",
+    "jobs_completed": 5,
+    "breaks_taken": 2,
+    "idle_time": 30
+  }
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24ac"
+  },
+  "date": "2024-02-05",
+  "activities": {
+    "start_time": "09:00:00",
+    "end_time": "18:00:00",
+    "jobs_completed": 7,
+    "breaks_taken": 3,
+    "idle_time": 45
+  }
+}]

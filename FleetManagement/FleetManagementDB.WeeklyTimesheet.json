@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a891"
+  },
+  "driver_id": "D001",
+  "week_start_date": "2024-02-01",
+  "week_end_date": "2024-02-07",
+  "daily_totals": {
+    "Monday": 8,
+    "Tuesday": 8,
+    "Wednesday": 8,
+    "Thursday": 8,
+    "Friday": 8
+  },
+  "weekly_overtime_analysis": "No overtime"
+},
+{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a892"
+  },
+  "driver_id": "D002",
+  "week_start_date": "2024-02-01",
+  "week_end_date": "2024-02-07",
+  "daily_totals": {
+    "Monday": 9,
+    "Tuesday": 9,
+    "Wednesday": 9,
+    "Thursday": 9,
+    "Friday": 9
+  },
+  "weekly_overtime_analysis": "Overtime on Thursday and Friday"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba48f"
+  },
+  "driver_id": "D001",
+  "week_start_date": "2024-02-01",
+  "week_end_date": "2024-02-07",
+  "daily_totals": {
+    "Monday": 8,
+    "Tuesday": 8,
+    "Wednesday": 8,
+    "Thursday": 8,
+    "Friday": 8
+  },
+  "weekly_overtime_analysis": "No overtime"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba490"
+  },
+  "driver_id": "D002",
+  "week_start_date": "2024-02-01",
+  "week_end_date": "2024-02-07",
+  "daily_totals": {
+    "Monday": 9,
+    "Tuesday": 9,
+    "Wednesday": 9,
+    "Thursday": 9,
+    "Friday": 9
+  },
+  "weekly_overtime_analysis": "Overtime on Thursday and Friday"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a984c"
+  },
+  "driver_id": "D001",
+  "week_start_date": "2024-02-01",
+  "week_end_date": "2024-02-07",
+  "daily_totals": {
+    "Monday": 8,
+    "Tuesday": 8,
+    "Wednesday": 8,
+    "Thursday": 8,
+    "Friday": 8
+  },
+  "weekly_overtime_analysis": "No overtime"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a984d"
+  },
+  "driver_id": "D002",
+  "week_start_date": "2024-02-01",
+  "week_end_date": "2024-02-07",
+  "daily_totals": {
+    "Monday": 9,
+    "Tuesday": 9,
+    "Wednesday": 9,
+    "Thursday": 9,
+    "Friday": 9
+  },
+  "weekly_overtime_analysis": "Overtime on Thursday and Friday"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11c2"
+  },
+  "driver_id": "D001",
+  "week_start_date": "2024-02-01",
+  "week_end_date": "2024-02-07",
+  "daily_totals": {
+    "Monday": 8,
+    "Tuesday": 8,
+    "Wednesday": 8,
+    "Thursday": 8,
+    "Friday": 8
+  },
+  "weekly_overtime_analysis": "No overtime"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11c3"
+  },
+  "driver_id": "D002",
+  "week_start_date": "2024-02-01",
+  "week_end_date": "2024-02-07",
+  "daily_totals": {
+    "Monday": 9,
+    "Tuesday": 9,
+    "Wednesday": 9,
+    "Thursday": 9,
+    "Friday": 9
+  },
+  "weekly_overtime_analysis": "Overtime on Thursday and Friday"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc2495"
+  },
+  "driver_id": "D001",
+  "week_start_date": "2024-02-01",
+  "week_end_date": "2024-02-07",
+  "daily_totals": {
+    "Monday": 8,
+    "Tuesday": 8,
+    "Wednesday": 8,
+    "Thursday": 8,
+    "Friday": 8
+  },
+  "weekly_overtime_analysis": "No overtime"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc2496"
+  },
+  "driver_id": "D002",
+  "week_start_date": "2024-02-01",
+  "week_end_date": "2024-02-07",
+  "daily_totals": {
+    "Monday": 9,
+    "Tuesday": 9,
+    "Wednesday": 9,
+    "Thursday": 9,
+    "Friday": 9
+  },
+  "weekly_overtime_analysis": "Overtime on Thursday and Friday"
+}]

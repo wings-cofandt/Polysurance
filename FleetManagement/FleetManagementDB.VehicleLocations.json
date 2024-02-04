@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "65bfb063507585029f34c6d2"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "latitude": 40.7128,
+  "longitude": -74.006,
+  "activity": "start"
+},
+{
+  "_id": {
+    "$oid": "65bfbb2851aafcc6ee19dae9"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "latitude": 40.7128,
+  "longitude": -74.006,
+  "activity": "start"
+},
+{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a885"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "latitude": 40.7128,
+  "longitude": -74.006,
+  "activity": "start"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba483"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "latitude": 40.7128,
+  "longitude": -74.006,
+  "activity": "start"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9840"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "latitude": 40.7128,
+  "longitude": -74.006,
+  "activity": "start"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11b6"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "latitude": 40.7128,
+  "longitude": -74.006,
+  "activity": "start"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc2489"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "latitude": 40.7128,
+  "longitude": -74.006,
+  "activity": "start"
+}]

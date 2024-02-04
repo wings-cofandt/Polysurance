@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "65bfbb2851aafcc6ee19daed"
+  },
+  "user_id": "U001",
+  "timestamp": "2024-02-04T08:00:00",
+  "activity_type": "login",
+  "frequency_and_duration": "Daily, 8 hours",
+  "user_activity_logs": [
+    "Reports generated",
+    "Alerts set"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bfbb2851aafcc6ee19daee"
+  },
+  "user_id": "U002",
+  "timestamp": "2024-02-04T12:30:00",
+  "activity_type": "logout",
+  "frequency_and_duration": "Daily, 6 hours",
+  "user_activity_logs": [
+    "Reports generated"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a889"
+  },
+  "user_id": "U001",
+  "timestamp": "2024-02-04T08:00:00",
+  "activity_type": "login",
+  "frequency_and_duration": "Daily, 8 hours",
+  "user_activity_logs": [
+    "Reports generated",
+    "Alerts set"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a88a"
+  },
+  "user_id": "U002",
+  "timestamp": "2024-02-04T12:30:00",
+  "activity_type": "logout",
+  "frequency_and_duration": "Daily, 6 hours",
+  "user_activity_logs": [
+    "Reports generated"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba487"
+  },
+  "user_id": "U001",
+  "timestamp": "2024-02-04T08:00:00",
+  "activity_type": "login",
+  "frequency_and_duration": "Daily, 8 hours",
+  "user_activity_logs": [
+    "Reports generated",
+    "Alerts set"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba488"
+  },
+  "user_id": "U002",
+  "timestamp": "2024-02-04T12:30:00",
+  "activity_type": "logout",
+  "frequency_and_duration": "Daily, 6 hours",
+  "user_activity_logs": [
+    "Reports generated"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9844"
+  },
+  "user_id": "U001",
+  "timestamp": "2024-02-04T08:00:00",
+  "activity_type": "login",
+  "frequency_and_duration": "Daily, 8 hours",
+  "user_activity_logs": [
+    "Reports generated",
+    "Alerts set"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9845"
+  },
+  "user_id": "U002",
+  "timestamp": "2024-02-04T12:30:00",
+  "activity_type": "logout",
+  "frequency_and_duration": "Daily, 6 hours",
+  "user_activity_logs": [
+    "Reports generated"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11ba"
+  },
+  "user_id": "U001",
+  "timestamp": "2024-02-04T08:00:00",
+  "activity_type": "login",
+  "frequency_and_duration": "Daily, 8 hours",
+  "user_activity_logs": [
+    "Reports generated",
+    "Alerts set"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11bb"
+  },
+  "user_id": "U002",
+  "timestamp": "2024-02-04T12:30:00",
+  "activity_type": "logout",
+  "frequency_and_duration": "Daily, 6 hours",
+  "user_activity_logs": [
+    "Reports generated"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc248d"
+  },
+  "user_id": "U001",
+  "timestamp": "2024-02-04T08:00:00",
+  "activity_type": "login",
+  "frequency_and_duration": "Daily, 8 hours",
+  "user_activity_logs": [
+    "Reports generated",
+    "Alerts set"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc248e"
+  },
+  "user_id": "U002",
+  "timestamp": "2024-02-04T12:30:00",
+  "activity_type": "logout",
+  "frequency_and_duration": "Daily, 6 hours",
+  "user_activity_logs": [
+    "Reports generated"
+  ]
+}]

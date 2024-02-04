@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "65bfbb2851aafcc6ee19daeb"
+  },
+  "vehicle_id": "V001",
+  "stop_order_id": "SO001",
+  "duration": 0.5,
+  "planned_vs_actual_routes": "Route A",
+  "time_spent_on_each_work_order": 2,
+  "details_of_unplanned_stops": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfbb2851aafcc6ee19daec"
+  },
+  "vehicle_id": "V002",
+  "stop_order_id": "SO002",
+  "duration": 1.2,
+  "planned_vs_actual_routes": "Route B",
+  "time_spent_on_each_work_order": 3.5,
+  "details_of_unplanned_stops": "Traffic delay"
+},
+{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a887"
+  },
+  "vehicle_id": "V001",
+  "stop_order_id": "SO001",
+  "duration": 0.5,
+  "planned_vs_actual_routes": "Route A",
+  "time_spent_on_each_work_order": 2,
+  "details_of_unplanned_stops": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a888"
+  },
+  "vehicle_id": "V002",
+  "stop_order_id": "SO002",
+  "duration": 1.2,
+  "planned_vs_actual_routes": "Route B",
+  "time_spent_on_each_work_order": 3.5,
+  "details_of_unplanned_stops": "Traffic delay"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba485"
+  },
+  "vehicle_id": "V001",
+  "stop_order_id": "SO001",
+  "duration": 0.5,
+  "planned_vs_actual_routes": "Route A",
+  "time_spent_on_each_work_order": 2,
+  "details_of_unplanned_stops": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba486"
+  },
+  "vehicle_id": "V002",
+  "stop_order_id": "SO002",
+  "duration": 1.2,
+  "planned_vs_actual_routes": "Route B",
+  "time_spent_on_each_work_order": 3.5,
+  "details_of_unplanned_stops": "Traffic delay"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9842"
+  },
+  "vehicle_id": "V001",
+  "stop_order_id": "SO001",
+  "duration": 0.5,
+  "planned_vs_actual_routes": "Route A",
+  "time_spent_on_each_work_order": 2,
+  "details_of_unplanned_stops": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9843"
+  },
+  "vehicle_id": "V002",
+  "stop_order_id": "SO002",
+  "duration": 1.2,
+  "planned_vs_actual_routes": "Route B",
+  "time_spent_on_each_work_order": 3.5,
+  "details_of_unplanned_stops": "Traffic delay"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11b8"
+  },
+  "vehicle_id": "V001",
+  "stop_order_id": "SO001",
+  "duration": 0.5,
+  "planned_vs_actual_routes": "Route A",
+  "time_spent_on_each_work_order": 2,
+  "details_of_unplanned_stops": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11b9"
+  },
+  "vehicle_id": "V002",
+  "stop_order_id": "SO002",
+  "duration": 1.2,
+  "planned_vs_actual_routes": "Route B",
+  "time_spent_on_each_work_order": 3.5,
+  "details_of_unplanned_stops": "Traffic delay"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc248b"
+  },
+  "vehicle_id": "V001",
+  "stop_order_id": "SO001",
+  "duration": 0.5,
+  "planned_vs_actual_routes": "Route A",
+  "time_spent_on_each_work_order": 2,
+  "details_of_unplanned_stops": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc248c"
+  },
+  "vehicle_id": "V002",
+  "stop_order_id": "SO002",
+  "duration": 1.2,
+  "planned_vs_actual_routes": "Route B",
+  "time_spent_on_each_work_order": 3.5,
+  "details_of_unplanned_stops": "Traffic delay"
+}]

@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a893"
+  },
+  "vehicle_id": "V001",
+  "trip_job_id": "TJ001",
+  "cost_per_trip_job": 200,
+  "fuel_costs": 100,
+  "maintenance_and_operational_costs": 50
+},
+{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a894"
+  },
+  "vehicle_id": "V002",
+  "trip_job_id": "TJ002",
+  "cost_per_trip_job": 180,
+  "fuel_costs": 90,
+  "maintenance_and_operational_costs": 40
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba491"
+  },
+  "vehicle_id": "V001",
+  "trip_job_id": "TJ001",
+  "cost_per_trip_job": 200,
+  "fuel_costs": 100,
+  "maintenance_and_operational_costs": 50
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba492"
+  },
+  "vehicle_id": "V002",
+  "trip_job_id": "TJ002",
+  "cost_per_trip_job": 180,
+  "fuel_costs": 90,
+  "maintenance_and_operational_costs": 40
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a984e"
+  },
+  "vehicle_id": "V001",
+  "trip_job_id": "TJ001",
+  "cost_per_trip_job": 200,
+  "fuel_costs": 100,
+  "maintenance_and_operational_costs": 50
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a984f"
+  },
+  "vehicle_id": "V002",
+  "trip_job_id": "TJ002",
+  "cost_per_trip_job": 180,
+  "fuel_costs": 90,
+  "maintenance_and_operational_costs": 40
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11c4"
+  },
+  "vehicle_id": "V001",
+  "trip_job_id": "TJ001",
+  "cost_per_trip_job": 200,
+  "fuel_costs": 100,
+  "maintenance_and_operational_costs": 50
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11c5"
+  },
+  "vehicle_id": "V002",
+  "trip_job_id": "TJ002",
+  "cost_per_trip_job": 180,
+  "fuel_costs": 90,
+  "maintenance_and_operational_costs": 40
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc2497"
+  },
+  "vehicle_id": "V001",
+  "trip_job_id": "TJ001",
+  "cost_per_trip_job": 200,
+  "fuel_costs": 100,
+  "maintenance_and_operational_costs": 50
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc2498"
+  },
+  "vehicle_id": "V002",
+  "trip_job_id": "TJ002",
+  "cost_per_trip_job": 180,
+  "fuel_costs": 90,
+  "maintenance_and_operational_costs": 40
+}]

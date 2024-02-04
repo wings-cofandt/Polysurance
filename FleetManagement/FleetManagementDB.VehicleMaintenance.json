@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65bfbcc1496274043c1ba49f"
+  },
+  "vehicle_id": "V001",
+  "maintenance_task": "Oil Change",
+  "completion_date": "2024-02-04",
+  "cost": 50,
+  "downtime_hours": 2
+},
+{
+  "_id": {
+    "$oid": "65bfbcc1496274043c1ba4a0"
+  },
+  "vehicle_id": "V002",
+  "maintenance_task": "Brake Replacement",
+  "completion_date": "2024-02-04",
+  "cost": 120,
+  "downtime_hours": 4
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a985c"
+  },
+  "vehicle_id": "V001",
+  "maintenance_task": "Oil Change",
+  "completion_date": "2024-02-04",
+  "cost": 50,
+  "downtime_hours": 2
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a985d"
+  },
+  "vehicle_id": "V002",
+  "maintenance_task": "Brake Replacement",
+  "completion_date": "2024-02-04",
+  "cost": 120,
+  "downtime_hours": 4
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11d2"
+  },
+  "vehicle_id": "V001",
+  "maintenance_task": "Oil Change",
+  "completion_date": "2024-02-04",
+  "cost": 50,
+  "downtime_hours": 2
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11d3"
+  },
+  "vehicle_id": "V002",
+  "maintenance_task": "Brake Replacement",
+  "completion_date": "2024-02-04",
+  "cost": 120,
+  "downtime_hours": 4
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24a5"
+  },
+  "vehicle_id": "V001",
+  "maintenance_task": "Oil Change",
+  "completion_date": "2024-02-04",
+  "cost": 50,
+  "downtime_hours": 2
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24a6"
+  },
+  "vehicle_id": "V002",
+  "maintenance_task": "Brake Replacement",
+  "completion_date": "2024-02-04",
+  "cost": 120,
+  "downtime_hours": 4
+}]

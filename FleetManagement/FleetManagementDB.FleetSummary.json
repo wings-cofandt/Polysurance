@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9864"
+  },
+  "start_date": "2024-02-01",
+  "end_date": "2024-02-07",
+  "total_engine_time_on": 120,
+  "total_driving_duration": 90,
+  "total_idling_duration": 30,
+  "total_distance_driven": 800
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9865"
+  },
+  "start_date": "2024-02-08",
+  "end_date": "2024-02-14",
+  "total_engine_time_on": 130,
+  "total_driving_duration": 95,
+  "total_idling_duration": 35,
+  "total_distance_driven": 850
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11da"
+  },
+  "start_date": "2024-02-01",
+  "end_date": "2024-02-07",
+  "total_engine_time_on": 120,
+  "total_driving_duration": 90,
+  "total_idling_duration": 30,
+  "total_distance_driven": 800
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11db"
+  },
+  "start_date": "2024-02-08",
+  "end_date": "2024-02-14",
+  "total_engine_time_on": 130,
+  "total_driving_duration": 95,
+  "total_idling_duration": 35,
+  "total_distance_driven": 850
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24ad"
+  },
+  "start_date": "2024-02-01",
+  "end_date": "2024-02-07",
+  "total_engine_time_on": 120,
+  "total_driving_duration": 90,
+  "total_idling_duration": 30,
+  "total_distance_driven": 800
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24ae"
+  },
+  "start_date": "2024-02-08",
+  "end_date": "2024-02-14",
+  "total_engine_time_on": 130,
+  "total_driving_duration": 95,
+  "total_idling_duration": 35,
+  "total_distance_driven": 850
+}]

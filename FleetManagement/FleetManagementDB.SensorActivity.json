@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "65bfbb2851aafcc6ee19daef"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T10:45:00",
+  "sensor_type": "Temperature",
+  "duration_of_sensor_activity": 1.5,
+  "alerts_for_abnormal_sensor_activity": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfbb2851aafcc6ee19daf0"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:00:00",
+  "sensor_type": "Door",
+  "duration_of_sensor_activity": 0.75,
+  "alerts_for_abnormal_sensor_activity": "Door open during transit"
+},
+{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a88b"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T10:45:00",
+  "sensor_type": "Temperature",
+  "duration_of_sensor_activity": 1.5,
+  "alerts_for_abnormal_sensor_activity": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a88c"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:00:00",
+  "sensor_type": "Door",
+  "duration_of_sensor_activity": 0.75,
+  "alerts_for_abnormal_sensor_activity": "Door open during transit"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba489"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T10:45:00",
+  "sensor_type": "Temperature",
+  "duration_of_sensor_activity": 1.5,
+  "alerts_for_abnormal_sensor_activity": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba48a"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:00:00",
+  "sensor_type": "Door",
+  "duration_of_sensor_activity": 0.75,
+  "alerts_for_abnormal_sensor_activity": "Door open during transit"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9846"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T10:45:00",
+  "sensor_type": "Temperature",
+  "duration_of_sensor_activity": 1.5,
+  "alerts_for_abnormal_sensor_activity": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9847"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:00:00",
+  "sensor_type": "Door",
+  "duration_of_sensor_activity": 0.75,
+  "alerts_for_abnormal_sensor_activity": "Door open during transit"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11bc"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T10:45:00",
+  "sensor_type": "Temperature",
+  "duration_of_sensor_activity": 1.5,
+  "alerts_for_abnormal_sensor_activity": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11bd"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:00:00",
+  "sensor_type": "Door",
+  "duration_of_sensor_activity": 0.75,
+  "alerts_for_abnormal_sensor_activity": "Door open during transit"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc248f"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T10:45:00",
+  "sensor_type": "Temperature",
+  "duration_of_sensor_activity": 1.5,
+  "alerts_for_abnormal_sensor_activity": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc2490"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:00:00",
+  "sensor_type": "Door",
+  "duration_of_sensor_activity": 0.75,
+  "alerts_for_abnormal_sensor_activity": "Door open during transit"
+}]

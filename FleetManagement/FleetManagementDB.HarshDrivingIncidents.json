@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba495"
+  },
+  "driver_id": "D001",
+  "incident_type": "Harsh Braking",
+  "timestamp": "2024-02-04T12:45:00",
+  "location": "Intersection A",
+  "severity": "Moderate"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba496"
+  },
+  "driver_id": "D002",
+  "incident_type": "Harsh Acceleration",
+  "timestamp": "2024-02-04T15:30:00",
+  "location": "Highway B",
+  "severity": "High"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9852"
+  },
+  "driver_id": "D001",
+  "incident_type": "Harsh Braking",
+  "timestamp": "2024-02-04T12:45:00",
+  "location": "Intersection A",
+  "severity": "Moderate"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9853"
+  },
+  "driver_id": "D002",
+  "incident_type": "Harsh Acceleration",
+  "timestamp": "2024-02-04T15:30:00",
+  "location": "Highway B",
+  "severity": "High"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11c8"
+  },
+  "driver_id": "D001",
+  "incident_type": "Harsh Braking",
+  "timestamp": "2024-02-04T12:45:00",
+  "location": "Intersection A",
+  "severity": "Moderate"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11c9"
+  },
+  "driver_id": "D002",
+  "incident_type": "Harsh Acceleration",
+  "timestamp": "2024-02-04T15:30:00",
+  "location": "Highway B",
+  "severity": "High"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc249b"
+  },
+  "driver_id": "D001",
+  "incident_type": "Harsh Braking",
+  "timestamp": "2024-02-04T12:45:00",
+  "location": "Intersection A",
+  "severity": "Moderate"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc249c"
+  },
+  "driver_id": "D002",
+  "incident_type": "Harsh Acceleration",
+  "timestamp": "2024-02-04T15:30:00",
+  "location": "Highway B",
+  "severity": "High"
+}]

@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "65bfbb2851aafcc6ee19daf1"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "total_distance": 50,
+  "state": "NY",
+  "geofence_id": "G001"
+},
+{
+  "_id": {
+    "$oid": "65bfbb2851aafcc6ee19daf2"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:45:00",
+  "total_distance": 75,
+  "state": "CA",
+  "geofence_id": "G002"
+},
+{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a88d"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "total_distance": 50,
+  "state": "NY",
+  "geofence_id": "G001"
+},
+{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a88e"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:45:00",
+  "total_distance": 75,
+  "state": "CA",
+  "geofence_id": "G002"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba48b"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "total_distance": 50,
+  "state": "NY",
+  "geofence_id": "G001"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba48c"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:45:00",
+  "total_distance": 75,
+  "state": "CA",
+  "geofence_id": "G002"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9848"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "total_distance": 50,
+  "state": "NY",
+  "geofence_id": "G001"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9849"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:45:00",
+  "total_distance": 75,
+  "state": "CA",
+  "geofence_id": "G002"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11be"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "total_distance": 50,
+  "state": "NY",
+  "geofence_id": "G001"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11bf"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:45:00",
+  "total_distance": 75,
+  "state": "CA",
+  "geofence_id": "G002"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc2491"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "total_distance": 50,
+  "state": "NY",
+  "geofence_id": "G001"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc2492"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:45:00",
+  "total_distance": 75,
+  "state": "CA",
+  "geofence_id": "G002"
+}]

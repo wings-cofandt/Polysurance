@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba497"
+  },
+  "driver_id": "D001",
+  "safety_score": 85,
+  "aggressive_driving_behaviors": {
+    "speeding": 3,
+    "harsh_braking": 2,
+    "harsh_acceleration": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba498"
+  },
+  "driver_id": "D002",
+  "safety_score": 90,
+  "aggressive_driving_behaviors": {
+    "speeding": 1,
+    "harsh_braking": 1,
+    "harsh_acceleration": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9854"
+  },
+  "driver_id": "D001",
+  "safety_score": 85,
+  "aggressive_driving_behaviors": {
+    "speeding": 3,
+    "harsh_braking": 2,
+    "harsh_acceleration": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9855"
+  },
+  "driver_id": "D002",
+  "safety_score": 90,
+  "aggressive_driving_behaviors": {
+    "speeding": 1,
+    "harsh_braking": 1,
+    "harsh_acceleration": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11ca"
+  },
+  "driver_id": "D001",
+  "safety_score": 85,
+  "aggressive_driving_behaviors": {
+    "speeding": 3,
+    "harsh_braking": 2,
+    "harsh_acceleration": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11cb"
+  },
+  "driver_id": "D002",
+  "safety_score": 90,
+  "aggressive_driving_behaviors": {
+    "speeding": 1,
+    "harsh_braking": 1,
+    "harsh_acceleration": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc249d"
+  },
+  "driver_id": "D001",
+  "safety_score": 85,
+  "aggressive_driving_behaviors": {
+    "speeding": 3,
+    "harsh_braking": 2,
+    "harsh_acceleration": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc249e"
+  },
+  "driver_id": "D002",
+  "safety_score": 90,
+  "aggressive_driving_behaviors": {
+    "speeding": 1,
+    "harsh_braking": 1,
+    "harsh_acceleration": 0
+  }
+}]

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9860"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "fuel_consumption_rate": 9.5,
+  "actual_fuel_efficiency": 10,
+  "expected_fuel_efficiency": 12
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9861"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:45:00",
+  "fuel_consumption_rate": 8.5,
+  "actual_fuel_efficiency": 12,
+  "expected_fuel_efficiency": 14
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11d6"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "fuel_consumption_rate": 9.5,
+  "actual_fuel_efficiency": 10,
+  "expected_fuel_efficiency": 12
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11d7"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:45:00",
+  "fuel_consumption_rate": 8.5,
+  "actual_fuel_efficiency": 12,
+  "expected_fuel_efficiency": 14
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24a9"
+  },
+  "vehicle_id": "V001",
+  "timestamp": "2024-02-04T12:30:00",
+  "fuel_consumption_rate": 9.5,
+  "actual_fuel_efficiency": 10,
+  "expected_fuel_efficiency": 12
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24aa"
+  },
+  "vehicle_id": "V002",
+  "timestamp": "2024-02-04T14:45:00",
+  "fuel_consumption_rate": 8.5,
+  "actual_fuel_efficiency": 12,
+  "expected_fuel_efficiency": 14
+}]

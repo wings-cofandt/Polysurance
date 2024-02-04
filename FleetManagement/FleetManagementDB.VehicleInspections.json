@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba49b"
+  },
+  "vehicle_id": "V001",
+  "inspection_date": "2024-02-04",
+  "inspection_result": "Pass",
+  "faults_and_defects_reported": "None",
+  "repair_and_maintenance_follow-ups": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba49c"
+  },
+  "vehicle_id": "V002",
+  "inspection_date": "2024-02-04",
+  "inspection_result": "Fail",
+  "faults_and_defects_reported": "Brake issues",
+  "repair_and_maintenance_follow-ups": "Immediate brake repair"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9858"
+  },
+  "vehicle_id": "V001",
+  "inspection_date": "2024-02-04",
+  "inspection_result": "Pass",
+  "faults_and_defects_reported": "None",
+  "repair_and_maintenance_follow-ups": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9859"
+  },
+  "vehicle_id": "V002",
+  "inspection_date": "2024-02-04",
+  "inspection_result": "Fail",
+  "faults_and_defects_reported": "Brake issues",
+  "repair_and_maintenance_follow-ups": "Immediate brake repair"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11ce"
+  },
+  "vehicle_id": "V001",
+  "inspection_date": "2024-02-04",
+  "inspection_result": "Pass",
+  "faults_and_defects_reported": "None",
+  "repair_and_maintenance_follow-ups": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11cf"
+  },
+  "vehicle_id": "V002",
+  "inspection_date": "2024-02-04",
+  "inspection_result": "Fail",
+  "faults_and_defects_reported": "Brake issues",
+  "repair_and_maintenance_follow-ups": "Immediate brake repair"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24a1"
+  },
+  "vehicle_id": "V001",
+  "inspection_date": "2024-02-04",
+  "inspection_result": "Pass",
+  "faults_and_defects_reported": "None",
+  "repair_and_maintenance_follow-ups": "None"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24a2"
+  },
+  "vehicle_id": "V002",
+  "inspection_date": "2024-02-04",
+  "inspection_result": "Fail",
+  "faults_and_defects_reported": "Brake issues",
+  "repair_and_maintenance_follow-ups": "Immediate brake repair"
+}]

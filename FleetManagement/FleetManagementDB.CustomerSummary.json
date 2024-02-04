@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9866"
+  },
+  "customer_id": "C001",
+  "service_level": "Premium",
+  "response_times": {
+    "morning": "On time",
+    "afternoon": "Slight delay"
+  },
+  "service_efficiency": "High"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9867"
+  },
+  "customer_id": "C002",
+  "service_level": "Standard",
+  "response_times": {
+    "morning": "Slight delay",
+    "afternoon": "On time"
+  },
+  "service_efficiency": "Medium"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11dc"
+  },
+  "customer_id": "C001",
+  "service_level": "Premium",
+  "response_times": {
+    "morning": "On time",
+    "afternoon": "Slight delay"
+  },
+  "service_efficiency": "High"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11dd"
+  },
+  "customer_id": "C002",
+  "service_level": "Standard",
+  "response_times": {
+    "morning": "Slight delay",
+    "afternoon": "On time"
+  },
+  "service_efficiency": "Medium"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24af"
+  },
+  "customer_id": "C001",
+  "service_level": "Premium",
+  "response_times": {
+    "morning": "On time",
+    "afternoon": "Slight delay"
+  },
+  "service_efficiency": "High"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc24b0"
+  },
+  "customer_id": "C002",
+  "service_level": "Standard",
+  "response_times": {
+    "morning": "Slight delay",
+    "afternoon": "On time"
+  },
+  "service_efficiency": "Medium"
+}]

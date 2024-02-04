@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a895"
+  },
+  "driver_id": "D001",
+  "timestamp": "2024-02-04T14:00:00",
+  "duration": 0.5,
+  "severity": "Moderate",
+  "location": "Highway A"
+},
+{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a896"
+  },
+  "driver_id": "D002",
+  "timestamp": "2024-02-04T16:30:00",
+  "duration": 0.75,
+  "severity": "High",
+  "location": "Highway B"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba493"
+  },
+  "driver_id": "D001",
+  "timestamp": "2024-02-04T14:00:00",
+  "duration": 0.5,
+  "severity": "Moderate",
+  "location": "Highway A"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba494"
+  },
+  "driver_id": "D002",
+  "timestamp": "2024-02-04T16:30:00",
+  "duration": 0.75,
+  "severity": "High",
+  "location": "Highway B"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9850"
+  },
+  "driver_id": "D001",
+  "timestamp": "2024-02-04T14:00:00",
+  "duration": 0.5,
+  "severity": "Moderate",
+  "location": "Highway A"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a9851"
+  },
+  "driver_id": "D002",
+  "timestamp": "2024-02-04T16:30:00",
+  "duration": 0.75,
+  "severity": "High",
+  "location": "Highway B"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11c6"
+  },
+  "driver_id": "D001",
+  "timestamp": "2024-02-04T14:00:00",
+  "duration": 0.5,
+  "severity": "Moderate",
+  "location": "Highway A"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11c7"
+  },
+  "driver_id": "D002",
+  "timestamp": "2024-02-04T16:30:00",
+  "duration": 0.75,
+  "severity": "High",
+  "location": "Highway B"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc2499"
+  },
+  "driver_id": "D001",
+  "timestamp": "2024-02-04T14:00:00",
+  "duration": 0.5,
+  "severity": "Moderate",
+  "location": "Highway A"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc249a"
+  },
+  "driver_id": "D002",
+  "timestamp": "2024-02-04T16:30:00",
+  "duration": 0.75,
+  "severity": "High",
+  "location": "Highway B"
+}]

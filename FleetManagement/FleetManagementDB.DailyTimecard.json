@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "65bfbb2851aafcc6ee19daf3"
+  },
+  "driver_id": "D001",
+  "date": "2024-02-04",
+  "shift_start_time": "08:00:00",
+  "shift_end_time": "16:00:00",
+  "breaks_and_idle_times": "Break: 12:00-12:30, Idle: 15 mins",
+  "time_spent_at_each_job_or_location": "Job A: 3 hours, Job B: 4 hours"
+},
+{
+  "_id": {
+    "$oid": "65bfbb2851aafcc6ee19daf4"
+  },
+  "driver_id": "D002",
+  "date": "2024-02-04",
+  "shift_start_time": "10:00:00",
+  "shift_end_time": "18:00:00",
+  "breaks_and_idle_times": "Break: 13:30-14:00, Idle: 20 mins",
+  "time_spent_at_each_job_or_location": "Job C: 5 hours, Job D: 2.5 hours"
+},
+{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a88f"
+  },
+  "driver_id": "D001",
+  "date": "2024-02-04",
+  "shift_start_time": "08:00:00",
+  "shift_end_time": "16:00:00",
+  "breaks_and_idle_times": "Break: 12:00-12:30, Idle: 15 mins",
+  "time_spent_at_each_job_or_location": "Job A: 3 hours, Job B: 4 hours"
+},
+{
+  "_id": {
+    "$oid": "65bfbbe2f0f1254df428a890"
+  },
+  "driver_id": "D002",
+  "date": "2024-02-04",
+  "shift_start_time": "10:00:00",
+  "shift_end_time": "18:00:00",
+  "breaks_and_idle_times": "Break: 13:30-14:00, Idle: 20 mins",
+  "time_spent_at_each_job_or_location": "Job C: 5 hours, Job D: 2.5 hours"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba48d"
+  },
+  "driver_id": "D001",
+  "date": "2024-02-04",
+  "shift_start_time": "08:00:00",
+  "shift_end_time": "16:00:00",
+  "breaks_and_idle_times": "Break: 12:00-12:30, Idle: 15 mins",
+  "time_spent_at_each_job_or_location": "Job A: 3 hours, Job B: 4 hours"
+},
+{
+  "_id": {
+    "$oid": "65bfbcc0496274043c1ba48e"
+  },
+  "driver_id": "D002",
+  "date": "2024-02-04",
+  "shift_start_time": "10:00:00",
+  "shift_end_time": "18:00:00",
+  "breaks_and_idle_times": "Break: 13:30-14:00, Idle: 20 mins",
+  "time_spent_at_each_job_or_location": "Job C: 5 hours, Job D: 2.5 hours"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a984a"
+  },
+  "driver_id": "D001",
+  "date": "2024-02-04",
+  "shift_start_time": "08:00:00",
+  "shift_end_time": "16:00:00",
+  "breaks_and_idle_times": "Break: 12:00-12:30, Idle: 15 mins",
+  "time_spent_at_each_job_or_location": "Job A: 3 hours, Job B: 4 hours"
+},
+{
+  "_id": {
+    "$oid": "65bfbd72252d765e180a984b"
+  },
+  "driver_id": "D002",
+  "date": "2024-02-04",
+  "shift_start_time": "10:00:00",
+  "shift_end_time": "18:00:00",
+  "breaks_and_idle_times": "Break: 13:30-14:00, Idle: 20 mins",
+  "time_spent_at_each_job_or_location": "Job C: 5 hours, Job D: 2.5 hours"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11c0"
+  },
+  "driver_id": "D001",
+  "date": "2024-02-04",
+  "shift_start_time": "08:00:00",
+  "shift_end_time": "16:00:00",
+  "breaks_and_idle_times": "Break: 12:00-12:30, Idle: 15 mins",
+  "time_spent_at_each_job_or_location": "Job A: 3 hours, Job B: 4 hours"
+},
+{
+  "_id": {
+    "$oid": "65bfbe07cec8a2a6b20e11c1"
+  },
+  "driver_id": "D002",
+  "date": "2024-02-04",
+  "shift_start_time": "10:00:00",
+  "shift_end_time": "18:00:00",
+  "breaks_and_idle_times": "Break: 13:30-14:00, Idle: 20 mins",
+  "time_spent_at_each_job_or_location": "Job C: 5 hours, Job D: 2.5 hours"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc2493"
+  },
+  "driver_id": "D001",
+  "date": "2024-02-04",
+  "shift_start_time": "08:00:00",
+  "shift_end_time": "16:00:00",
+  "breaks_and_idle_times": "Break: 12:00-12:30, Idle: 15 mins",
+  "time_spent_at_each_job_or_location": "Job A: 3 hours, Job B: 4 hours"
+},
+{
+  "_id": {
+    "$oid": "65bfc5496a5d164652fc2494"
+  },
+  "driver_id": "D002",
+  "date": "2024-02-04",
+  "shift_start_time": "10:00:00",
+  "shift_end_time": "18:00:00",
+  "breaks_and_idle_times": "Break: 13:30-14:00, Idle: 20 mins",
+  "time_spent_at_each_job_or_location": "Job C: 5 hours, Job D: 2.5 hours"
+}]
