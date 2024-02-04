@@ -4,9 +4,7 @@
 
 The Fleet Management System is a comprehensive solution for monitoring and optimizing fleet operations. This system provides real-time insights into vehicle locations, activities, and various performance metrics. It aims to enhance efficiency, reduce costs, and improve overall fleet management.
 
-## Features
-
-- **R## Database Connections
+## Database Connections
 
 1. `weekly_timesheet_collection`: Stores weekly timesheet data for drivers.
 2. `cost_analysis_collection`: Tracks the cost analysis of trips and jobs.
