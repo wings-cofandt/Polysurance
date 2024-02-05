@@ -35,6 +35,25 @@ The Fleet Management System is a comprehensive solution for monitoring and optim
 Each collection in the database contains documents with dummy data, providing a representative sample of the kind of information that can be stored and analyzed. Feel free to explore the structure of each collection and adapt the database to meet your specific needs.
 
 
+## Screenshots
+
+## 1) 
+
+![1](https://github.com/wings-cofandt/Polysurance/assets/56802115/626d3de8-fdc8-4d54-ad60-03bfcb7f2941)
+
+## 2)
+
+![2](https://github.com/wings-cofandt/Polysurance/assets/56802115/06edfde2-9d0e-466a-993b-d0e58b61d12f)
+
+## 3)
+
+![3](https://github.com/wings-cofandt/Polysurance/assets/56802115/764751a2-ab1d-4e29-843f-420f2fa00004)
+
+## 4)
+
+![4](https://github.com/wings-cofandt/Polysurance/assets/56802115/4d2658f1-4cca-4b8e-8de7-c86f0e35c935)
+
+
 ## Getting Started
 
 Follow these steps to get a local copy of the project up and running on your machine.
@@ -50,3 +69,6 @@ Follow these steps to get a local copy of the project up and running on your mac
 
    ```bash
    git clone https://github.com/wings-cofandt/fleet-management-system.git
+
+
+   
