@@ -53,6 +53,11 @@ Each collection in the database contains documents with dummy data, providing a 
 
 ![4](https://github.com/wings-cofandt/Polysurance/assets/56802115/4d2658f1-4cca-4b8e-8de7-c86f0e35c935)
 
+## 5)
+
+![5](https://github.com/wings-cofandt/Polysurance/assets/56802115/4dba5cf8-973a-4002-b1fd-3f4fd1ff0e50)
+
+
 
 ## Getting Started
 
